@@ -9,3 +9,14 @@ Projek ini adalah projek latihan saya untuk membuat aplikasi untuk memprediksi a
 - Dataset disimpan dalam bentuk CSV
 - Evaluasi model dengan Accuracy Score dan Classification Report
 - Hasil split data dan model disimpan ke file joblib yang berbeda untuk bisa digunakan di file lain
+- Validasi input pada CLI untuk mencegah kesalahan
+
+## 🧠 Tools & Library
+- Python 3.X
+- Pandas
+- Joblib
+- Scikit-learn
+- Numpy
+- Matplotlib
+- Seaborn
+
