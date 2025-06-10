@@ -5,7 +5,7 @@ Projek ini adalah projek latihan saya untuk membuat aplikasi untuk memprediksi a
 
 ## 🚀 Fitur
 - Input berupa faktor faktor yang dibutuhkan untuk memprediksi diabetes menggunakan CLI
-- Model Random Forest dengan scikit-learn
+- Model Logistic Regression dengan scikit-learn
 - Dataset disimpan dalam bentuk CSV
 - Evaluasi model dengan Accuracy Score dan Classification Report
 - Hasil split data dan model disimpan ke file joblib yang berbeda untuk bisa digunakan di file lain
