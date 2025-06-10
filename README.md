@@ -57,3 +57,7 @@ Information about dataset attributes :
 
 ## 🖥️ Cara Menjalankan Program
 1. Clone repositori
+```bash
+https://github.com/arvio1378/Diabetes-Prediction-Logistic-Regression.git
+cd Diabetes-Prediction-Logistic-Regression
+```
