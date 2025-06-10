@@ -61,3 +61,10 @@ Information about dataset attributes :
 https://github.com/arvio1378/Diabetes-Prediction-Logistic-Regression.git
 cd Diabetes-Prediction-Logistic-Regression
 ```
+2. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+3. Jalankan program
+```bash
+
