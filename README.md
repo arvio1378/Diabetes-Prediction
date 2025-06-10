@@ -43,3 +43,16 @@ Projek ini adalah projek latihan saya untuk membuat aplikasi untuk memprediksi a
 | 1           | 89          | 66            | 23            | 94          | 28.1        | 0.167                    | 21          | 0           |
 | 0           | 137         | 40            | 35            | 168         | 43.1        | 2.288                    | 33          | 1           |
 | ...         | ...         | ...           | ...           | ...         | ...         | ...                      | ...         | ...         |
+
+Information about dataset attributes :
+- Pregnancies: To express the Number of pregnancies
+- Glucose: To express the Glucose level in blood
+- BloodPressure: To express the Blood pressure measurement
+- SkinThickness: To express the thickness of the skin
+- Insulin: To express the Insulin level in blood
+- BMI: To express the Body mass index
+- DiabetesPedigreeFunction: To express the Diabetes percentage
+- Age: To express the age
+- Outcome: To express the final result 1 is Yes and 0 is No
+
+🖥️ Cara Menjalankan Program
