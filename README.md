@@ -1,4 +1,4 @@
-# 📚 Diabetes-Prediction-Logistic-Regression
+# 📚 Diabetes Prediction Logistic Regression
 
 ## 📋 Deskripsi
 Projek ini adalah projek latihan saya untuk membuat aplikasi untuk memprediksi apakah pasien terdapat diabetes atau tidak menggunakan algoritma logistic regression. Untuk memprediksi diabetes menggunakan beberapa faktor seperti BMI, glukosa, insulin, dan faktor lainnya yang berkorelasi dengan diabetes.
