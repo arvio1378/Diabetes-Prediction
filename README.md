@@ -55,4 +55,5 @@ Information about dataset attributes :
 - Age: To express the age
 - Outcome: To express the final result 1 is Yes and 0 is No
 
-🖥️ Cara Menjalankan Program
+## 🖥️ Cara Menjalankan Program
+1. Clone repositori
