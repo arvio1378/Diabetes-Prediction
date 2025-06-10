@@ -67,4 +67,21 @@ pip install -r requirements.txt
 ```
 3. Jalankan program
 ```bash
+python main.py
+```
 
+## 📈 Hasil & Evaluasi
+Model dapat memberikan hasil akurasi score sebesar 0.79 sehingga dapat dikatakan bahwa model dapat bekerja dengan baik untuk memprediksi diabetes. Pasien non diabetes diprediksi lebih akurat daripada pasien diabetes yang dapat dilihat dari hasil precision dan recall yang lebih tinggi daripada pasien diabetes.
+
+## 🏗️ Kontribusi
+Dapat melakukan kontribusi kepada siapa saja. Bisa bantu untuk :
+- Perbaikan model (Hyperparameter Tuning)
+- Menggunakan data yang lebih besar
+- Menambahkan antaramuka di web/streamlit
+
+## 🧑‍💻 Tentang Saya
+Saya sedang belajar dan membangun karir di bidang AI/ML. Projek ini adalah latihan saya untuk membangun aplikasi python sederhana. Saya ingin lebih untuk mengembangkan skill saya di bidang ini melalui projek-projek yang ada.
+
+📫 Terhubung dengan saya di:
+- Linkedin : https://www.linkedin.com/in/arvio-abe-suhendar/
+- Github : https://github.com/arvio1378
