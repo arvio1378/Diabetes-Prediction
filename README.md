@@ -21,7 +21,7 @@ Projek ini adalah projek latihan saya untuk membuat aplikasi untuk memprediksi a
 - Seaborn
 
 ## 📁 Struktur Folder
-- Diabetes Prediction Logistic Regression/
+- Diabetes Prediction Decision Tree/
   - data
       - diabetes.csv
   - src
@@ -59,7 +59,7 @@ Information about dataset attributes :
 1. Clone repositori
 ```bash
 https://github.com/arvio1378/Diabetes-Prediction-Decision-Tree.git
-cd Diabetes-Prediction-Logistic-Regression
+cd Diabetes-Prediction-Decision-Tree
 ```
 2. Install dependencies
 ```bash
