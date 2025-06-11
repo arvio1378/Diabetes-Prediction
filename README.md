@@ -71,7 +71,7 @@ python main.py
 ```
 
 ## 📈 Hasil & Evaluasi
-Model dapat memberikan hasil akurasi score sebesar 0.79 sehingga dapat dikatakan bahwa model dapat bekerja dengan baik untuk memprediksi diabetes. Pasien non diabetes diprediksi lebih akurat daripada pasien diabetes yang dapat dilihat dari hasil precision dan recall yang lebih tinggi daripada pasien diabetes.
+Model dapat memberikan hasil akurasi score sebesar 0.8 sehingga dapat dikatakan bahwa model dapat bekerja dengan baik untuk memprediksi diabetes. Pasien non diabetes diprediksi lebih akurat daripada pasien diabetes yang dapat dilihat dari hasil precision dan recall yang lebih tinggi daripada pasien diabetes.
 
 ## 🏗️ Kontribusi
 Dapat melakukan kontribusi kepada siapa saja. Bisa bantu untuk :
