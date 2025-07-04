@@ -58,7 +58,7 @@ Information about dataset attributes :
 ## 🖥️ Cara Menjalankan Program
 1. Clone repositori
 ```bash
-https://github.com/arvio1378/Diabetes-Prediction-Decision-Tree.git
+git clone https://github.com/arvio1378/Diabetes-Prediction-Decision-Tree.git
 cd Diabetes-Prediction-Decision-Tree
 ```
 2. Install dependencies
