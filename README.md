@@ -1,11 +1,11 @@
 # 📚 Diabetes Prediction Decision Tree
 
 ## 📋 Deskripsi
-Projek ini adalah projek latihan saya untuk membuat aplikasi untuk memprediksi apakah pasien terdapat diabetes atau tidak menggunakan algoritma Decision Tree. Untuk memprediksi diabetes menggunakan beberapa faktor seperti BMI, glukosa, insulin, dan faktor lainnya yang berkorelasi dengan diabetes.
+Projek ini adalah projek latihan saya untuk membuat aplikasi untuk memprediksi apakah pasien terdapat diabetes atau tidak. Untuk memprediksi diabetes menggunakan beberapa faktor seperti BMI, glukosa, insulin, dan faktor lainnya yang berkorelasi dengan diabetes.
 
 ## 🚀 Fitur
 - Input berupa faktor faktor yang dibutuhkan untuk memprediksi diabetes
-- Model Decision Tree dengan scikit-learn
+- Membandingkan beberapa model seperti decision tree, random forest, dan logistic regression
 - Dataset disimpan dalam bentuk CSV
 - Evaluasi model dengan Accuracy Score dan Classification Report
 - Hasil split data dan model disimpan ke file joblib yang berbeda untuk bisa digunakan di file lain
