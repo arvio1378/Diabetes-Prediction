@@ -1,4 +1,4 @@
-# 📚 Diabetes Prediction Decision Tree
+# 📚 Diabetes Prediction
 
 ## 📋 Deskripsi
 Projek ini adalah projek latihan saya untuk membuat aplikasi untuk memprediksi apakah pasien terdapat diabetes atau tidak. Untuk memprediksi diabetes menggunakan beberapa faktor seperti BMI, glukosa, insulin, dan faktor lainnya yang berkorelasi dengan diabetes.
@@ -21,12 +21,14 @@ Projek ini adalah projek latihan saya untuk membuat aplikasi untuk memprediksi a
 - Seaborn
 
 ## 📁 Struktur Folder
-- Diabetes Prediction Decision Tree/
+- Diabetes Prediction/
   - data
       - diabetes.csv
       - dataDescription.txt
   - src
-      - model.pkl
+      - Decision Tree.pkl
+      - Logistic Regression.pkl
+      - Random Forest.pkl
       - model.ipynb
       - preprocessing.ipynb
       - data_clean.pkl
@@ -59,8 +61,8 @@ Information about dataset attributes :
 ## 🖥️ Cara Menjalankan Program
 1. Clone repositori
 ```bash
-git clone https://github.com/arvio1378/Diabetes-Prediction-Decision-Tree.git
-cd Diabetes-Prediction-Decision-Tree
+git clone https://github.com/arvio1378/Diabetes-Prediction.git
+cd Diabetes-Prediction
 ```
 2. Install dependencies
 ```bash
@@ -72,7 +74,7 @@ python main.py
 ```
 
 ## 📈 Hasil & Evaluasi
-Model dapat memberikan hasil akurasi score sebesar 0.8 sehingga dapat dikatakan bahwa model dapat bekerja dengan baik untuk memprediksi diabetes. Pasien non diabetes diprediksi lebih akurat daripada pasien diabetes yang dapat dilihat dari hasil precision dan recall yang lebih tinggi daripada pasien diabetes.
+Dari beberapa model yang telah dilakukan training dapat memberikan hasil akurasi score yang paling tinggi adalah model decision tree yaitu sebanyak 0.8 sehingga dapat dikatakan bahwa model ini dapat bekerja dengan baik untuk memprediksi diabetes. Pasien non diabetes diprediksi lebih akurat daripada pasien diabetes yang dapat dilihat dari hasil precision dan recall yang lebih tinggi daripada pasien diabetes.
 
 ## 🏗️ Kontribusi
 Dapat melakukan kontribusi kepada siapa saja. Bisa bantu untuk :
