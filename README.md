@@ -30,6 +30,7 @@ Projek ini adalah projek latihan saya untuk membuat aplikasi untuk memprediksi a
       - preprocessing.ipynb
       - data_clean.pkl
   - main.py
+  - streamlit.py
   - requirements.txt
   - dataDescription.txt
   - README.md
