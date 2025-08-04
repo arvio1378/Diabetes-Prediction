@@ -24,6 +24,7 @@ Projek ini adalah projek latihan saya untuk membuat aplikasi untuk memprediksi a
 - Diabetes Prediction Decision Tree/
   - data
       - diabetes.csv
+      - dataDescription.txt
   - src
       - model.pkl
       - model.ipynb
