@@ -33,7 +33,6 @@ Projek ini adalah projek latihan saya untuk membuat aplikasi untuk memprediksi a
   - main.py
   - streamlit.py
   - requirements.txt
-  - dataDescription.txt
   - README.md
 
  ## 📊 Dataset
