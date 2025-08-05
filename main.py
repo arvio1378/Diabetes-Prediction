@@ -1,7 +1,7 @@
 import joblib
 import pandas as pd
 
-model = joblib.load("src\model.pkl")
+model = joblib.load("src\Decision Tree.pkl")
 
 def predict():
     # ambil input
