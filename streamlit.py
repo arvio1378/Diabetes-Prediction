@@ -396,7 +396,7 @@ elif pages == "Evaluation":
 # Page 4 : Prediction
 elif pages == "Prediction":
     st.title("Diabetes Prediction Test")
-    model = joblib.load("src\Decision Tree.pkl")
+    model = joblib.load("src/Decision Tree.pkl")
 
     # Form Data
     with st.form("Diabetes_form"):
