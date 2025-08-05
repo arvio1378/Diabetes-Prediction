@@ -18,6 +18,7 @@ Projek ini adalah projek latihan saya untuk membuat aplikasi untuk memprediksi a
 - Numpy
 - Matplotlib
 - Seaborn
+- Streamlit
 
 ## 📁 Struktur Folder
 - Diabetes Prediction/
